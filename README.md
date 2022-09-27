@@ -14,7 +14,27 @@ Install
 
 **Sub Finder**
 
-    $ go get -v -u github.com/projectdiscovery/subfinder/cmd/subfinder
+    $ git config  --global user.email "email github"
+
+    $ git config --global user.name "github username"
+
+    $ git init
+
+    $ git add .
+
+    $ git config --global --add safe.directory /storage/emulated/0/namafolder
+
+    $ git add .
+
+    $ git commit -m  "ngetes doang bang"
+
+    $ git remote add origin link repo
+
+    $ git push origin master
+
+Username : your username 
+
+Password : your github token. 
 
 **Bug Scanner**
 
