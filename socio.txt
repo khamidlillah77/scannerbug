@@ -1,0 +1,10 @@
+app.sociomile.com
+voice.sociomile.com
+kb.sociomile.com
+s3.sociomile.com
+blog.sociomile.com
+platform.sociomile.com
+socket-chat.sociomile.com
+www.sociomile.com
+chat.sociomile.com
+sociomile.com

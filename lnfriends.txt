@@ -1,0 +1,16 @@
+www.campaign.linefriends.com
+www.www.linefriends.com
+store.linefriends.com
+api.pic.linefriends.com
+linefriends.com
+ordering.linefriends.com
+campaign.linefriends.com
+creator.linefriends.com
+dl.linefriends.com
+cdn-game.linefriends.com
+store-cdn.linefriends.com
+bt21-faq.linefriends.com
+bt21-download.linefriends.com
+collection.linefriends.com
+www.linefriends.com
+openapi-datacenter.linefriends.com

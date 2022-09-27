@@ -1,0 +1,10 @@
+www.routers.com
+asterisk2.routers.com
+dover.routers.com
+nessus.routers.com
+gw.routers.com
+phoenix.routers.com
+pocono.routers.com
+vpn-add.routers.com
+sslvpn.routers.com
+texas.routers.com

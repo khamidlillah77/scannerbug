@@ -1,0 +1,12 @@
+static.onlymega.com
+mail.onlymega.com
+onlymega.com
+www.onlymega.com
+app.onlymega.com
+support.onlymega.com
+tats.onlymega.com
+static-test.onlymega.com
+sergio.onlymega.com
+showcase.onlymega.com
+stats.onlymega.com
+cdn.onlymega.com
